@@ -1,0 +1,20 @@
+- body
+    - Container
+      - header
+        - Logo principal
+        - Titre
+        - Sous titre
+      - Main
+        - Article
+          - header
+            - titre h2
+            - Logo secondaire
+            - paragraphe
+          - Aside (aparté)
+            - Paragraphe
+          - Section
+            - Titre (Synopsis)
+            - Paragraphe
+            - Paragraphe
+            - Paragraphe
+      - Footer
